@@ -15,7 +15,7 @@ from langchain.callbacks.base import BaseCallbackHandler
 
 
 # Load API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCBNVW3BKRI464aujS8XBmtsssiDm0MtMc"
+os.environ["GOOGLE_API_KEY"] = "Your API key"
 
 # ===========================================================================================
 # Sidebar contents
